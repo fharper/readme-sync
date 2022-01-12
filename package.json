@@ -38,7 +38,7 @@
     "js-yaml": "^3.13.1",
     "markdown-include": "^0.4.3",
     "marked": "^0.7.0",
-    "mustache": "^3.1.0",
+    "mustache": "^3.2.1",
     "readline-sync": "^1.4.10",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.7",
